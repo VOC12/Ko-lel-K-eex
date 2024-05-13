@@ -1,0 +1,6 @@
+my_streamlit_app/
+├── pages/
+│   ├── 1_Visualizations.py
+│   ├── 2_Chatbot.py
+│   └── 3_Map.py
+└── main.py
