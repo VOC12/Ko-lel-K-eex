@@ -31,11 +31,11 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Agregar una imagen en la página principal
-st.image("path/to/your/image.jpg", caption="Descripción de la imagen", use_column_width=True)
+st.image("webApp/Images/KKLOGO.png", caption="Nuestro logo", use_column_width=True)
 
 # Sidebar
 st.sidebar.title("Naviagte")
 st.sidebar.markdown("Choose an option for help")
 
 # Agregar otra imagen en la barra lateral
-st.sidebar.image("path/to/another/image.jpg", caption="Otra descripción", use_column_width=True)
+st.sidebar.image("webApp/Images/KKLOGO.png", caption="Otra descripción", use_column_width=True)
